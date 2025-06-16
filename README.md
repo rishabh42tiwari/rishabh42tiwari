@@ -58,6 +58,6 @@
 
 ### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/rishabh422tiwari)  
-- [Email](mailto:rishabh422tiwari@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rishabh42tiwari)  
+- [Email](mailto:rishabh42tiwari@gmail.com)
 

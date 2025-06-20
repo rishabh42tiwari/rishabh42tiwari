@@ -1,58 +1,30 @@
 # 👋 Hi, I'm Rishabh Tiwari
 
-🚀 **Cloud-Native Backend Consultant** | Golang · Kubernetes Operators · gRPC  
-📍 Operating remotely from **Valencia, Spain** (CET) — available for **contract & freelance work**  
-🎯 Helping startups build scalable backends, automate infrastructure, and ship fast.
+🚀 **Cloud-Native Backend & AI Engineer** | Golang · Kubernetes · PyTorch · MLOps  
+🎯 Helping startups build scalable infrastructure and intelligent systems.
 
 ---
 
 ### 🔧 What I Do
 
 - 🧠 **Kubernetes Operator Development**  
-  Build custom controllers using `controller-runtime` to manage CRDs and infra lifecycles.
+  Build custom controllers and automate infra lifecycles using Go and controller-runtime.
 
-- ⚡ **Backend APIs with Golang**  
-  REST + gRPC microservices, streaming, and scalable service communication.
+- ⚡ **Backend APIs**  
+  Scalable REST/gRPC services using Golang and Django.
 
-- 🔁 **GitOps & CI/CD**  
-  Automate deployment workflows with **ArgoCD**, **Helm**, and **GitHub Actions**.
+- 🧪 **Machine Learning & Deep Learning**  
+  Applied ML with **PyTorch**, **Reinforcement Learning**, **NeRF**, and experimental models.
 
-- 🔍 **Observability & Security**  
-  Set up **Cilium** with eBPF for service mesh, network policies, and Hubble-based tracing.
+- 🔁 **MLOps & Deployment**  
+  CI/CD automation, model tracking, and containerized deployments with Docker, GitHub Actions.
 
 ---
 
 ### 🛠️ Tech Stack
 
-`Golang` · `Kubernetes` · `gRPC` · `ArgoCD` · `Cilium` · `Docker`  
-`PostgreSQL` · `MongoDB` · `Redis` · `Protobuf` · `GitHub Actions`
-
----
-
-### 🔧 Highlight Projects
-
-- **KubeAuto**  
-  Kubernetes Operator for managing CI/CD pipelines using custom CRDs and reconciliation logic.  
-  _Stack: Golang, Kubernetes, controller-runtime, GitHub Actions_
-
-- **gRPC API for Fintech**  
-  High-performance service handling real-time transaction flows with streaming & SDK generation.  
-  _Stack: Golang, gRPC, PostgreSQL, Redis_
-
-- **ArgoCD GitOps Setup**  
-  Multi-environment GitOps pipelines with Helm, secrets management, and staging workflows.  
-  _Stack: ArgoCD, Kubernetes, GitHub Actions_
-
-- **Cilium Service Mesh (POC)**  
-  Sandbox project to enforce zero-trust networking and visualize traffic with Hubble.  
-  _Stack: Cilium, eBPF, Kubernetes_
-
----
-
-### 🕒 Availability
-
-📬 Open to **remote freelance contracts** (part-time or project-based).  
-💬 Let’s connect if you're building a **cloud-native platform or backend product**.
+`Golang` · `Kubernetes` · `gRPC` · `PyTorch` · `Django` · `Docker`  
+`NeRF` · `Reinforcement Learning` · `MLOps` · `PostgreSQL` · `GitHub Actions`
 
 ---
 
@@ -60,4 +32,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/rishabh42tiwari)  
 - [Email](mailto:rishabh42tiwari@gmail.com)
-
